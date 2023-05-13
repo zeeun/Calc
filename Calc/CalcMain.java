@@ -5,7 +5,7 @@ public class CalcMain {
 		// TODO Auto-generated method stub
 
 		hello;
-		hi;
+		
 
 	}
 
