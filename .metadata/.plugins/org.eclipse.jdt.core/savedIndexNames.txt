@@ -1,3 +1,2 @@
-INDEX VERSION 1.131+C:\Users\myoun\OneDrive\πŸ≈¡ »≠∏È\Calc\.metadata\.plugins\org.eclipse.jdt.core
-3867580250.index
+INDEX VERSION 1.131+C:\Users\myoun\OneDrive\πŸ≈¡ »≠∏È\Object\.metadata\.plugins\org.eclipse.jdt.core
 559499248.index
